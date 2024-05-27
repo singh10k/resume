@@ -1,9 +1,11 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 .gradient-bg {
     background: linear-gradient(to right, #667eea, #764ba2);
 }
+
 .visionTempleteHoverImage span {
     box-shadow: 0 0 5px rgba(0, 0, 0, .75);
     -moz-border-radius: 8px;
