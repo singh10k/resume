@@ -4,3 +4,18 @@ body {
 .gradient-bg {
     background: linear-gradient(to right, #667eea, #764ba2);
 }
+.visionTempleteHoverImage span {
+    box-shadow: 0 0 5px rgba(0, 0, 0, .75);
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    width: 25%;
+    background: #fff;
+    padding: 5px;
+    position: fixed;
+    right: 0px;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 99999;
+}
