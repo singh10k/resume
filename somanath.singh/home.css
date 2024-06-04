@@ -13,3 +13,9 @@
     transform: translate(-50%, -50%);
     z-index: 99999;
 }
+
+.profile-body{
+    font-family: Poppins;
+    letter-spacing: 0.1px;
+    word-spacing: 0.1px;
+}
