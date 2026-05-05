@@ -5,3 +5,28 @@ body {
 .gradient-bg {
     background: linear-gradient(to right, #667eea, #764ba2);
 }
+
+
+ .section-title {
+            color: #1a4cff;
+            font-weight: bold;
+            font-size: 20px;
+            border-bottom: 2px solid #ccc;
+            margin-bottom: 10px;
+        }
+        .skills-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .skills-table td {
+            padding: 6px 10px;
+            vertical-align: top;
+        }
+        .label {
+            font-weight: bold;
+            width: 180px;
+            white-space: nowrap;
+        }
+        .colon {
+            width: 10px;
+        }
